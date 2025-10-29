@@ -57,7 +57,7 @@ Data Layer: Database storing users, products, and orders
 
 🚀 Installation & Setup
 # Clone this repository
-git clone https://github.com/fathima-ceo/C-COMMERCE-CART-SYSTEM-VX-MART.git
+git clone https://github.com/mubha007/C-COMMERCE-CART-SYSTEM-VX-MART.git
 
 # Navigate to the project folder
 cd ecommerce-cart-system
